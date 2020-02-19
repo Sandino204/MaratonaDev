@@ -126,7 +126,7 @@ main .donors{
 }
 
 .donors p{
-    margin-top: 24px;
+    margin: 64px 0; 
     font-size: 14px;
 }
 
